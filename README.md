@@ -1,1 +1,2 @@
 # QR-code-generator
+This is a simple QR code generator built with Node.js. It allows you to easily generate QR codes for various purposes such as sharing URLs, Wi-Fi credentials, contact information, and more.
